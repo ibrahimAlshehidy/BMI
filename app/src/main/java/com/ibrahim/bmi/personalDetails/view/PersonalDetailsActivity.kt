@@ -1,14 +1,13 @@
-package com.ibrahim.bmi.addDetails.view
+package com.ibrahim.bmi.personalDetails.view
 
-import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
 import com.ibrahim.bmi.R
 
-class AddDetailsActivity : AppCompatActivity() {
+class PersonalDetailsActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_add_details)
+        setContentView(R.layout.activity_personal_details)
     }
-
 }

@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">BMI</string>
     <string name="addBmiDetails">Add BMI Details</string>
+    <string name="enterPersonalDetails">Enter personal detail</string>
+    <string name="Name">Name</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="gender">Gender</string>
+    <string name="calculate">Calculate</string>
+    <string name="BmiDetails">BMI Details</string>
+    <string name="calculateYourBMI">Calculate your body mass index</string>
+    <string name="bodyMassIndex">BODY MASS INDEX</string>
+    <string name="normalRange">Normal BMI range: 18.5kg/m2 to 25kg/m2</string>
+    <string name="share">Share</string>
+    <string name="rate">Rate</string>
 </resources>

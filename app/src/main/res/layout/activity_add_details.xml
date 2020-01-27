@@ -159,7 +159,8 @@
                         android:layout_marginStart="30dp"
                         android:layout_marginEnd="30dp"
                         android:layout_weight="1"
-                        android:gravity="center" />
+                        android:gravity="center"
+                        android:theme="@style/MyAppTheme.NumberPicker" />
 
                     <NumberPicker
                         android:id="@+id/npHeight"
@@ -168,7 +169,8 @@
                         android:layout_marginStart="30dp"
                         android:layout_marginEnd="30dp"
                         android:layout_weight="1"
-                        android:gravity="center" />
+                        android:gravity="center"
+                        android:theme="@style/MyAppTheme.NumberPicker" />
 
                     <NumberPicker
                         android:id="@+id/npGender"
@@ -177,7 +179,8 @@
                         android:layout_marginStart="30dp"
                         android:layout_marginEnd="30dp"
                         android:layout_weight="1"
-                        android:gravity="center" />
+                        android:gravity="center"
+                        android:theme="@style/MyAppTheme.NumberPicker" />
                 </LinearLayout>
 
             </RelativeLayout>

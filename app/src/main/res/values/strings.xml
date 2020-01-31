@@ -13,4 +13,7 @@
     <string name="normalRange">Normal BMI range: 18.5kg/m2 to 25kg/m2</string>
     <string name="share">Share</string>
     <string name="rate">Rate</string>
+    <string name="screenShotTaken">Screenshot has been taken.</string>
+    <string name="addRate">Thank you, your rate has been added.</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4532535524937753/1777625457</string>
 </resources>
